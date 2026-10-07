@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PasswordRecovery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d9551fd443c0bcc4bba8eb456d21aafbf485485")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+565d5dee41e86cee089973face763a18e93ef5f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PasswordRecovery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PasswordRecovery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

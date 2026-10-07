@@ -1,0 +1,2 @@
+D:\release\PasswordRecovery\PasswordRecovery.pdb
+D:\release\PasswordRecovery\PasswordRecovery.exe
